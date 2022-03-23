@@ -20,10 +20,15 @@
 </div>
 -->
 
-### Sou analista de sistemas, técnico em informática e programador e atualmente estou focando meu aprendizado em JavaScript, no Front-End e no Back-End.
+### Sou analista de sistemas formado pela Fatec Lins, técnico em informática pela Etec Lins e programador full stack JavaScript com Node.JS e React.  
+  Atualmente trabalho com gerenciamento e desenvolvimento de sistemas hospitalares internos e meus estudos estão voltados ao Next.JS, TypeScript e Node.JS.
 
-###  [![Gmail Badge](https://img.shields.io/badge/-nortonsantos79@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nortonsantos79@gmail.com)](mailto:nortonsantos79@gmail.com)
+ 
+  <br/>
+  <div style="display: inline_block">
+    <a href="mailto:nortonsantos79@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23BB001B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/norton794/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+    </div>
   
-###  <a href="https://www.linkedin.com/in/norton794/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 #### Obrigado por vir 👋
 
